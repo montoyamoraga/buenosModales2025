@@ -11,7 +11,7 @@ esto es un párrafo allá lejos.
 
 <https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet>
 
-listas
+lista sin orden
 
 * asdfasdf
   * esto está anidado en el de arriba
@@ -20,3 +20,9 @@ listas
     * este aún más
 * dsfgdgfs
 * sdfgfgdsdsfg
+
+lista con orden
+
+1. primer ingrediente
+2. segundo
+3. asdfasdf
