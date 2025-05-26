@@ -35,7 +35,7 @@ lista con orden
 mi código bacán de arduino
 
 
-```
+```cpp
 /*
   Blink
 
