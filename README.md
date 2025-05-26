@@ -8,6 +8,8 @@ ejemplo fugaz que borraré hoy para estudiantes en UDD
 
 ## foto de arduino, subida con drag and drop
 
+![arduino](https://github.com/user-attachments/assets/15a266e9-3624-4ea9-b801-aa3da94dbf18)
+
 ## foto de arduino, subida elegantemente, desde mi repositorio
 
 
