@@ -4,7 +4,8 @@ ejemplo fugaz que borraré hoy para estudiantes en UDD
 
 foto de arduino
 
-https://mcielectronics.cl/wp-content/uploads/2022/04/MCI00756A.webp
+![imagen de un arduino uno](https://mcielectronics.cl/wp-content/uploads/2022/04/MCI00756A.webp)
+
 
 ## esto es un subtítulo bacán
 
