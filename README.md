@@ -1,5 +1,11 @@
 # buenosModales2025
 
+versiondeGala
+
+versionExperimental
+
+basfdgfasdfasdfasdfasdz
+
 ejemplo fugaz que borraré hoy para estudiantes en UDD
 
 ## foto de arduino, robada de otra web, con un link
