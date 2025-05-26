@@ -10,3 +10,9 @@ esto es otro párrafo.
 esto es un párrafo allá lejos.
 
 <https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet>
+
+listas
+
+- asdfasdf
+- dsfgdgfs
+- sdfgfgdsdsfg
