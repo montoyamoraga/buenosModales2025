@@ -12,6 +12,7 @@ ejemplo fugaz que borraré hoy para estudiantes en UDD
 
 ## foto de arduino, subida elegantemente, desde mi repositorio
 
+![foto de arduino](./imagenes/arduino.jpg)
 
 ## esto es un subtítulo bacán
 
