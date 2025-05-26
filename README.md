@@ -13,10 +13,10 @@ esto es un párrafo allá lejos.
 
 listas
 
-- asdfasdf
- - esto está anidado en el de arriba
-- este no está anidado
- - este sí
-  - este aún más
-- dsfgdgfs
-- sdfgfgdsdsfg
+* asdfasdf
+ * esto está anidado en el de arriba
+* este no está anidado
+ * este sí
+  * este aún más
+* dsfgdgfs
+* sdfgfgdsdsfg
