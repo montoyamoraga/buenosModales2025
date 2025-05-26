@@ -24,5 +24,9 @@ lista sin orden
 lista con orden
 
 1. primer ingrediente
-2. segundo
-3. asdfasdf
+1. segundo
+1. asdfasdf
+1. oasdfasdf
+  1. anidado
+  1. asdfasdfasdf
+1. vuelta 
