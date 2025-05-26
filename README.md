@@ -2,9 +2,13 @@
 
 ejemplo fugaz que borraré hoy para estudiantes en UDD
 
-foto de arduino
+## foto de arduino, robada de otra web, con un link
 
 ![imagen de un arduino uno](https://mcielectronics.cl/wp-content/uploads/2022/04/MCI00756A.webp)
+
+## foto de arduino, subida con drag and drop
+
+## foto de arduino, subida elegantemente, desde mi repositorio
 
 
 ## esto es un subtítulo bacán
